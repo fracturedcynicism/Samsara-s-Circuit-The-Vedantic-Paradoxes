@@ -1,37 +1,53 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "Samsara’s Circuit: The Vedantic Paradoxes",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
-    "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "Samsara’s Circuit is a collection of cosmic sci-fi horror novels that explore the intersection of cutting-edge digital dread and ancient Vedic wisdom",
+    "badge": "Anthology",
+    "synopsis": "Across five haunting narratives, the series investigates the ultimate question: In a world where every human experience can be simulated, what remains that is truly real?",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "slug": "The Prelude",
+      "title": "The Witness in the Wire",
+      "subtitle": "Short story",
+      "file": "books/Book 1 The Witness in the Wire .txt",
+      "setting": "Futuristic India"
     },
-        {
+    {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "slug": "The Paradox of Identity",
+      "title": "The Echo of Empty Mirrors",
+      "subtitle": "Short story",
+      "file": "books/Book 2 The Echo of Empty Mirrors.txt",
+      "setting": "Futuristic India"
+    },
+    {
+      "id": 3,
+      "slug": "The Paradox of Scale",
+      "title": "The Dream of the Breathing God",
+      "subtitle": "Short story",
+      "file": "books/Book 3 The Dream of the Breathing God.txt",
+      "setting": "Futuristic India"
     },
         {
-      "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "id": 4,
+      "slug": "The Paradox of Understanding",
+      "title": "The Ghost in the Grammar",
+      "subtitle": "Short story",
+      "file": "books/Book 4 The Ghost in the Grammar.txt",
+      "setting": "Futuristic India"
+    },
+            {
+      "id": 5,
+      "slug": "The Paradox of Desire",
+      "title": "The Gilded Cage of Ananda",
+      "subtitle": "Short story",
+      "file": "books/Book 5 The Gilded Cage of Ananda.txt",
+      "setting": "Futuristic India"
     }
   ]
 }
